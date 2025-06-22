@@ -74,8 +74,10 @@ pip install pandas numpy matplotlib statsmodels pmdarima prophet scikit-learn
 
 ---
 
-## 👨‍💻 Author
-Sayan Das
-3rd Year, B.Tech + M.Tech in Mechanical and Financial Engineering, IIT Kharagpur
+## ✍️ Author
+
+**Sayan Das**  
+*B.Tech + M.Tech in Mechanical & Financial Engineering*  
+*Indian Institute of Technology, Kharagpur (IIT Kharagpur)*
 
 ---
